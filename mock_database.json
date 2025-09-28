@@ -1,0 +1,55 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "path": "sample_images/cat.jpg",
+      "description": "A fluffy orange cat sitting on a windowsill",
+      "category": "animals",
+      "tags": ["cat", "orange", "fluffy", "windowsill", "indoor"]
+    },
+    {
+      "id": 2,
+      "path": "sample_images/dog.jpg", 
+      "description": "A golden retriever playing in the park",
+      "category": "animals",
+      "tags": ["dog", "golden retriever", "park", "playing", "outdoor"]
+    },
+    {
+      "id": 3,
+      "path": "sample_images/food.jpg",
+      "description": "A delicious pizza with pepperoni and cheese",
+      "category": "food",
+      "tags": ["pizza", "pepperoni", "cheese", "delicious", "italian"]
+    },
+    {
+      "id": 4,
+      "path": "sample_images/nature.jpg",
+      "description": "A beautiful mountain landscape at sunset",
+      "category": "nature",
+      "tags": ["mountain", "sunset", "landscape", "beautiful", "outdoor"]
+    },
+    {
+      "id": 5,
+      "path": "sample_images/city.jpg",
+      "description": "A busy city street with tall buildings",
+      "category": "urban",
+      "tags": ["city", "buildings", "street", "urban", "busy"]
+    }
+  ],
+  "text_queries": [
+    "Find images of animals",
+    "Show me food pictures",
+    "Beautiful nature scenes",
+    "Urban cityscapes",
+    "Cute pets",
+    "Delicious meals",
+    "Outdoor activities",
+    "Indoor scenes"
+  ],
+  "categories": ["animals", "food", "nature", "urban", "people", "objects"],
+  "metadata": {
+    "total_images": 5,
+    "created_date": "2024-01-01",
+    "version": "1.0"
+  }
+}
